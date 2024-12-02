@@ -13,7 +13,7 @@ class Home extends StatelessWidget {
       appBar: AppBar(
         backgroundColor: Colors.white,
         title: const Center(
-          child: Text('Premium Clothes Store',
+          child: Text('213094',
               style: TextStyle(
                 color: Colors.black,
                 decoration: TextDecoration.underline,
